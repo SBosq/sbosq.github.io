@@ -6,9 +6,6 @@
     <body>
     <!-- Header Menu of the Page -->
         <nav>
-            <div class="logo-image">
-                <img url=("Logo.ico") width=100% height=100% class="img-fluid">
-            </div>
             <div class="topnav">
                 <a class="active" href="#home">Home</a>
                 <a href="#aboutme">About Me</a>
