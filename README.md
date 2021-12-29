@@ -3,9 +3,6 @@
 <head>
     <link rel="stylesheet" href="main.css"/>
     <meta charset="UTF-8">
-    <title>Portofolio</title>
-    <link rel = "icon" url="http://portafoliosfit.um.edu.mx/saulobosquez/wp-content/uploads/sites/23/2020/02/WP-FIT.png"
-          type = "image/x-icon">
 </head>
 <body>
 <!-- Header Menu of the Page -->
