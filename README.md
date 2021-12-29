@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
 </head>
     <body>
-        <img src="preview.gif" width="100%">
     <!-- Header Menu of the Page -->
         <nav>
             <div class="topnav">
