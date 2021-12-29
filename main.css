@@ -42,6 +42,9 @@ p.a {
     padding-top: 13%;
     padding-right: 5%;
 }
+.pa {
+    padding-top: 10%;
+}
 body {
     background-image: url("preview.gif");
     background-repeat: no-repeat;
