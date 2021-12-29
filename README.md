@@ -7,11 +7,6 @@
 <body>
 <!-- Header Menu of the Page -->
 <nav>
-    <a class="navbar-brand">
-        <div class="logo-image">
-            <img src="/Portfolio Pics/Logo.ico" width=100% height=100% class="img-fluid">
-        </div>
-    </a>
     <div class="topnav">
         <a class="active" href="#home">Home</a>
         <a href="#aboutme">About Me</a>
