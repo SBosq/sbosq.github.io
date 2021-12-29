@@ -1,12 +1,10 @@
-# sbosq.github.io
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <link rel="stylesheet" href="main.css"/>
     <meta charset="UTF-8">
     <title>Portofolio</title>
-    <link rel = "icon" src="sbosq.github.io/Portfolio Pics/Logo.png"
+    <link rel = "icon" src="/Portfolio Pics/Logo.png"
           type = "image/x-icon">
 </head>
 <body>
