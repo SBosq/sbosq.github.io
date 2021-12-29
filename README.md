@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 </head>
 <body>
-    <img src="preview.gif" alt="funny GIF" width="100%">
+    <img src="preview.gif" class="pa" width="100%">
 </body>
 <!-- Header Menu of the Page -->
 <nav>
