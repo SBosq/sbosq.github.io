@@ -129,7 +129,7 @@
     position: relative;
     max-width: 90%;
     max-height: 50%;
-    top: 15vw;
+    top: 13vw;
     left: 1.5vw;
     font-family: "Lucida Console", "Courier New", monospace;
     font-size: 145%;
@@ -140,5 +140,5 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-position: center -50px;
+    background-position: center -150px;
 }
